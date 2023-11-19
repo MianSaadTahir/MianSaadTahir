@@ -1,4 +1,4 @@
-<p align="center"><font size="4"> Hi 👋, Mian Saad here</font></font></p>
+<p align="center"><font size="1"> Hi 👋, Mian Saad here</font></font></p>
 
 
 I'm a first year CS student @UET, Lahore
