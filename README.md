@@ -1,4 +1,4 @@
-### Hi, Mian Saad here 👋
+### Hi 👋, Mian Saad here
 
 
 I'm a first year CS student @UET, Lahore
