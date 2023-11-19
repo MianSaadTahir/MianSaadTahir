@@ -1,4 +1,4 @@
-<h1 align="center"> #[Hi 👋, Mian Saad here] </h1>
+<h1 align="center"> Hi 👋, Mian Saad here </h1>
 
 
 I'm a first year CS student @UET, Lahore
