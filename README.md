@@ -4,4 +4,5 @@ As a first-year computer science student @ UET Lahore, I feel honored to be part
 
 * I’m currently learning **C++** and **HTML**
 * I'm working on a **2D CLI Game** and an **Application** for my first year project
+* Don't forget to checkout my LinkedIn linkedin.com/in/miansaadtahir
 * Feel free to reach me at tahirsaad99@gmail.com
