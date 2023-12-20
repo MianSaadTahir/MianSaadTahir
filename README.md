@@ -6,3 +6,6 @@ As a first-year computer science student @ UET Lahore, I feel honored to be part
 * I'm working on a **2D CLI Game** and an **Application** for my first year project
 * Feel free to reach me at tahirsaad99@gmail.com
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+</div>
