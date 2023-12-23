@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 As a first-year computer science student @ UET Lahore, I feel honored to be part of such an esteemed institute, where every day brings new opportunities for growth and learning. With a passion for coding and problem-solving, I'm eager to explore the world of technology, learn cutting edge technical skills and contribute innovative solutions.
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:incoming_envelope:Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miansaadtahir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miansaadtahir" height="30" width="40" /></a>
