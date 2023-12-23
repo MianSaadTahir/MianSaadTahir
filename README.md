@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>![giphy](https://github.com/MianSaadTahir/MianSaadTahir/assets/144413344/92134769-04fd-4c11-a14a-17af4f2c2408)
-![j](https://github.com/MianSaadTahir/MianSaadTahir/assets/144413344/b2a2b273-a52b-41fd-ba97-fb6864dafd26)
+</div>
 
 
 <h1 align="center">
