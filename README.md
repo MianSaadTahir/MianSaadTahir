@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center"> Hi 👋, Saad here </h1>
-<h1>
-  hey there
+
+<h1 align="center">
+  Hi, Saad here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 As a first-year computer science student @ UET Lahore, I feel honored to be part of such an esteemed institute, where every day brings new opportunities for growth and learning. With a passion for coding and problem-solving, I'm eager to explore the world of technology, learn cutting edge technical skills and contribute innovative solutions.
