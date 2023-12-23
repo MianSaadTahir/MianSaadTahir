@@ -21,5 +21,5 @@ As a first-year computer science student @ UET Lahore, I feel honored to be part
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en" alt="miansaadtahir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&" alt="miansaadtahir" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&" alt="miansaadtahir" /></p>
 
