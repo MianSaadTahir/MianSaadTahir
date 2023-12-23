@@ -30,3 +30,7 @@ As a first-year computer science student @ UET Lahore, I feel honored to be part
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&" alt="miansaadtahir" /></p>
 
+<div align="center" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anzatamveel&show_icons=true&locale=en&theme=dark&hide_border=false&border_radius=5&order=3" alt="anzatamveel"  height="150" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzatamveel&" alt="anzatamveel" height="150" />
+</div>
