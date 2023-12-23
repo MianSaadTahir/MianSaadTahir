@@ -7,8 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 As a first-year computer science student @ UET Lahore, I feel honored to be part of such an esteemed institute, where every day brings new opportunities for growth and learning. With a passion for coding and problem-solving, I'm eager to explore the world of technology, learn cutting edge technical skills and contribute innovative solutions.
-
-### :hammer_and_wrench: Languages and Tools :
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miansaadtahir" height="30" width="40" /></a>
@@ -18,7 +16,7 @@ As a first-year computer science student @ UET Lahore, I feel honored to be part
 <a href="https://instagram.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miansaadtahir" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">### :hammer_and_wrench:Languages and Tools:</h3>
+<h3 align="left">hammer_and_wrench:Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en" alt="miansaadtahir" /></p>
