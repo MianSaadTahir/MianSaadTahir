@@ -8,13 +8,10 @@
 As a first-year computer science student @ UET Lahore, I feel honored to be part of such an esteemed institute, where every day brings new opportunities for growth and learning. With a passion for coding and problem-solving, I'm eager to explore the world of technology, learn cutting edge technical skills and contribute innovative solutions.
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miansaadtahir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22587713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22587713" height="30" width="40" /></a>
-
 <a href="https://instagram.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miansaadtahir" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/miansaadtahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miansaadtahir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tahirsaad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahirsaad99" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/miansaadtahir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miansaadtahir" height="30" width="40" /></a><a href="https://www.hackerrank.com/tahirsaad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahirsaad99" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="miansaadtahir" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="miansaadtahir" height="30" width="40" /></a>
 </p>
