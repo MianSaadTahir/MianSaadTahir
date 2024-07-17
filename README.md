@@ -5,14 +5,16 @@
   Hi, Saad here
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<p>
 As a 2nd-year Computer Science student at the University of Engineering and Technology Lahore, I am passionate about software development, coding, and problem-solving. Through coursework and personal projects, I have developed expertise in:
-<br>
--Developing Windows Form applications using C# and .NET Framework
--Creating Console applications with C, C++, C#, and Python
--Handling CSV files and managing SQL databases
--Frontend development with HTML, CSS, and Bootstrap
-
+<br><br>
+-Developing Windows Form applications using C# and .NET Framework<br>
+-Creating Console applications with C, C++, C#, and Python<br>
+-Handling CSV files and managing SQL databases<br>
+-Frontend development with HTML, CSS, and Bootstrap<br>
+<br><br>
 I am eager to explore the world of technology, learn cutting-edge technical skills, and contribute innovative solutions. Looking forward to connecting and growing with fellow tech enthusiasts!
+</p>
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miansaadtahir" height="30" width="40" /></a>
