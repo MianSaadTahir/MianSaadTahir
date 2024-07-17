@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 As a 2nd-year Computer Science student at the University of Engineering and Technology Lahore, I am passionate about software development, coding, and problem-solving. Through coursework and personal projects, I have developed expertise in:
-
+<br>
 -Developing Windows Form applications using C# and .NET Framework
 -Creating Console applications with C, C++, C#, and Python
 -Handling CSV files and managing SQL databases
