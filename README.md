@@ -12,6 +12,7 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 -Creating Console applications with C, C++, C#, and Python<br>
 -Handling CSV files and managing SQL databases<br>
 -Frontend development with HTML, CSS, and Bootstrap
+-Building desktop applications with PyQt
 <br><br>I am eager to explore the world of technology, learn cutting-edge technical skills, and contribute innovative solutions. Looking forward to connecting and growing with fellow tech enthusiasts!
 </p>
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
