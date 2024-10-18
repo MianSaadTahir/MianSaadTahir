@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saad+Tahir!" />
 </p>
 <h2 align="center">A 2nd-year Computer Science student at the University of Engineering and Technology Lahore.</h2>
-<hr>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
 <br/><br/>
 - 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
