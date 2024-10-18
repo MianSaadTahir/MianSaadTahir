@@ -20,9 +20,9 @@
 
 </div>
 
-
+ <hr/>
 <div align="center"> 
-    <h3 align="left">:incoming_envelope:Connect with me:incoming_envelope:</h3>
+    <h3>:incoming_envelope:Connect with me:incoming_envelope:</h3>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
@@ -33,9 +33,7 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
-
-<br>
-<hr>
+ <hr/>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="center">
