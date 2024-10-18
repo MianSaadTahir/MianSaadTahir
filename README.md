@@ -8,14 +8,18 @@
 
 <h3 align="center">A 2nd-year computer science student from Pakistan 🇵🇰</h2>
 
+<br/>
 
-
-<br/><br/>
+<div align="center">
+    
 - 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
+
 - 👨‍💻 I have expertise in **C++, C#, Python**
+
 - ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
-<br>
-<hr>
+
+</div>
+
 
 <div align="center"> 
     <h3 align="left">:incoming_envelope: Connect with me:</h3>
