@@ -12,7 +12,7 @@
 
 <div align="center">
     
-👨‍💻 I have expertise in **C++, C#, Python**
+👨‍💻 I have expertise in **C++, C#, Python, HTML, CSS, JS**
 
 ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
 
