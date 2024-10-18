@@ -53,11 +53,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
-<hr>
+<hr/>
 
-<h3 align="left">:zap: Stats:</h3>
 <div align="center">
-    <br>    
+<h3>:zap: Stats :zap:</h3>
+ <br/> 
     <p>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
     </p>
