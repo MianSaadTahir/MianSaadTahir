@@ -29,7 +29,7 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 </div>
 
 <h3 align="left">:hammer_and_wrench:Languages and Tools:</h3>
-<p>
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
