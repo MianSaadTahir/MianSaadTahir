@@ -8,11 +8,13 @@
 <div align="right"> 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="25%"/>
 </div>
+<p>
 - 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
 
 - 👨‍💻 I have expertise in **C++, C#, Python**
 
 - ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
+</p>
  <br>
  <hr>
 <div align="center"> 
