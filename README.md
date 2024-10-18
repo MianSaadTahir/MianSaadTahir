@@ -5,6 +5,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
 
+
+<br/><br/><br/><br/>
 - 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
 - 👨‍💻 I have expertise in **C++, C#, Python**
 - ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
