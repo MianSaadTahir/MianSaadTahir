@@ -3,14 +3,15 @@
 </p>
 <p align="center">A 2nd-year Computer Science student at the University of Engineering and Technology Lahore.</p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<div align="right"> 
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
+<div align="left">
+    - 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**  
+    - 👨‍💻 I have expertise in **C++, C#, Python**  
+    - ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
 </div>
 
-- 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
-- 👨‍💻 I have expertise in **C++, C#, Python**
-- ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
+<div align="right">
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
+</div>
 
 <br>
 <hr>
