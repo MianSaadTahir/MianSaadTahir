@@ -18,7 +18,7 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 </p>
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miansaadtahir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miansaadtahir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="miansaadtahir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tahirsaad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahirsaad99" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miansaadtahir" height="30" width="40" /></a>
 </p>
