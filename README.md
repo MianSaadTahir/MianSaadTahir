@@ -11,9 +11,13 @@
 <br/>
 
 <div align="center">
-    👨‍💻 I have expertise in **C++, C#, Python**<br>
-    ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**<br>
-    🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
+    
+👨‍💻 I have expertise in **C++, C#, Python**
+
+⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
+
+🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
+
 </div>
 
 
