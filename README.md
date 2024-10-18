@@ -50,13 +50,13 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
   
 <div align="center">
    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="miansaadtahir" width="50%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="miansaadtahir" width="30%" />
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="miansaadtahir" width="50%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="miansaadtahir" width="30%" />
     </p>
     <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="miansaadtahir" width="50%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="miansaadtahir" width="30%" />
     </p>
 
 </div>
