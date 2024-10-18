@@ -22,7 +22,7 @@
 
  <hr/>
 <div align="center"> 
-    <h3>:incoming_envelope:Connect with me:incoming_envelope:</h3>
+    <h3>:incoming_envelope: Connect with me :incoming_envelope:</h3>
     <br/>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -34,10 +34,12 @@
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
 </div>
+
  <hr/>
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 <div align="center">
+ <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
+ <br/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -51,7 +53,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </div>
 
-<br>
 <hr>
 
 <h3 align="left">:zap: Stats:</h3>
