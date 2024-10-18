@@ -4,6 +4,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saad+Tahir!;" />
 </h1>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100"/>
+
+
+
 <p>
 As a 2nd-year Computer Science student at the University of Engineering and Technology Lahore, I am passionate about software development, coding, and problem-solving. Through coursework and personal projects, I have developed expertise in:
 <br><br>
