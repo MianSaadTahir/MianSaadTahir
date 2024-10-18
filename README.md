@@ -44,13 +44,6 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 
   
 <div align="center" >
-    
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir" alt="miansaadtahir" /></a> </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en" alt="miansaadtahir" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&" alt="miansaadtahir" />
-</p>
+   <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir" alt="miansaadtahir" /></a></p>
 
 </div>
