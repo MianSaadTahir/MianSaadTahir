@@ -23,6 +23,7 @@
  <hr/>
 <div align="center"> 
     <h3>:incoming_envelope:Connect with me:incoming_envelope:</h3>
+    <br/>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
@@ -30,7 +31,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://salesp07.github.io" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+        <img src="" />
     </a>
 </div>
  <hr/>
