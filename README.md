@@ -8,17 +8,11 @@
 <div align="right"> 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  width="25%"/>
 </div>
-<p>
-As a 2nd-year Computer Science student at the University of Engineering and Technology Lahore, I am passionate about software development, coding, and problem-solving. Through coursework and personal projects, I have developed expertise in:
-<br><br>
--Developing Windows Form applications using C# and .NET Framework<br>
--Creating Console applications with C, C++, and C#<br>
--Handling CSV files and managing SQL databases<br>
--Frontend development with HTML, CSS, JS and Bootstrap<br>
--Building desktop applications with PyQt
-<br><br>I am eager to explore the world of technology, learn cutting-edge technical skills, and contribute innovative solutions. Looking forward to connecting and growing with fellow tech enthusiasts!
-</p>
+- 🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
 
+- 👨‍💻 I have expertise in **C++, C#, Python**
+
+- ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
  <br>
  <hr>
 <div align="center"> 
