@@ -19,7 +19,8 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 <br><br>I am eager to explore the world of technology, learn cutting-edge technical skills, and contribute innovative solutions. Looking forward to connecting and growing with fellow tech enthusiasts!
 </p>
 
- 
+ <br>
+ <hr>
 <div align="center"> 
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
   <a href="mailto:tahirsaad99@gmail.com">
@@ -32,6 +33,9 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+<br>
+ <hr>
 
 <h3 align="left">:hammer_and_wrench:Languages and Tools:</h3>
 <p align="center">
@@ -47,6 +51,9 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
+
+<br>
+ <hr>
   
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
