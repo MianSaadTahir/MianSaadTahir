@@ -26,7 +26,6 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 
 <h3 align="left">:hammer_and_wrench:Languages and Tools:</h3>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
 </p>
 
