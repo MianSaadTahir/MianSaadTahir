@@ -14,13 +14,19 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 -Building desktop applications with PyQt
 <br><br>I am eager to explore the world of technology, learn cutting-edge technical skills, and contribute innovative solutions. Looking forward to connecting and growing with fellow tech enthusiasts!
 </p>
+<div align="center"> 
 <h3 align="left">:incoming_envelope:Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/miansaadtahir" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="miansaadtahir" width="100" /></a>
-<a href="https://www.hackerrank.com/tahirsaad99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tahirsaad99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/miansaadtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="miansaadtahir" height="30" width="40" /></a>
-</p>
 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <h3 align="left">:hammer_and_wrench:Languages and Tools:</h3>
 <p align="left">
