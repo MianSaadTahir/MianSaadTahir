@@ -6,21 +6,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saad+Tahir!" />
 </h1>
 
-<h3 align="center">A 2nd-year computer science student from Pakistan 🇵🇰</h2>
+<h3 align="center">A 2nd-year computer science student from Pakistan 🇵🇰</h3>
 
 <br/>
 
 <div align="center">
-    
-👨‍💻 I have expertise in **C++, C#, Python**
-
-⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
-
-🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
-
+    👨‍💻 I have expertise in **C++, C#, Python**<br>
+    ⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**<br>
+    🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
 </div>
 
- <hr/>
+<hr/>
+
 <div align="center"> 
     <h3>:incoming_envelope: Connect with me :incoming_envelope:</h3>
     <br/>
@@ -35,11 +32,11 @@
     </a>
 </div>
 
- <hr/>
+<hr/>
 
 <div align="center">
- <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
- <br/> 
+    <h3>:hammer_and_wrench: Languages and Tools :hammer_and_wrench:</h3>
+    <br/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -56,13 +53,12 @@
 <hr/>
 
 <div align="center">
-<h3>:zap: Stats :zap:</h3>
- <br/> 
-        <img width=390 src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="40%" />
-        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" width="40%" />
-        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
+    <h3>:zap: Stats :zap:</h3>
+    <br/> 
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=dark" alt="GitHub Profile Trophy" />
-</a>
-
+        <img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=dark" alt="GitHub Profile Trophy" />
+    </a>
 </div>
