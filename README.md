@@ -38,7 +38,7 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
  <hr>
 
 <h3 align="left">:hammer_and_wrench:Languages and Tools:</h3>
-<p align="center">
+<div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -50,11 +50,12 @@ As a 2nd-year Computer Science student at the University of Engineering and Tech
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-
+</div>
 
 <br>
  <hr>
-  
+
+<h3 align="left">:zap:Stats:</h3>
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
            <img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=dark" alt="miansaadtahir" />
