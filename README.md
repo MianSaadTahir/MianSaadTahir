@@ -58,15 +58,9 @@
 <div align="center">
 <h3>:zap: Stats :zap:</h3>
  <br/> 
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="40%" />
-    </p>
-    <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" width="40%" />
-    </p>
+        <img width=390 src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="40%" />
+        <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" width="40%" />
+        <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="40%" />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=dark" alt="Trophy" />
     </a>
