@@ -22,7 +22,7 @@
 
 
 <div align="center"> 
-    <h3 align="left">:incoming_envelope: Connect with me:</h3>
+    <h3 align="left">:incoming_envelope:Connect with me:incoming_envelope:</h3>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
