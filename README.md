@@ -60,7 +60,7 @@
 <div align="center">
     <h3>:zap: Stats :zap:</h3>
     <br/> 
-    ![](https://komarev.com/ghpvc/?username=miansaadtahir)
+    ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/miansaadtahir/miansaadtahir&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
