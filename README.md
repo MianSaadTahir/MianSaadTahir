@@ -9,7 +9,7 @@
 <h3 align="center">A 2nd-year computer science student at UET 🎓</h3>
 
 <br/>
-[![An image of @miansaadtahir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miansaadtahir)](https://holopin.io/@miansaadtahir)
+[![@miansaadtahir's Holopin badges](https://holopin.me/miansaadtahir)](https://holopin.io/@miansaadtahir)
 
 
 <div align="center">
