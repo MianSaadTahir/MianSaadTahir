@@ -60,6 +60,7 @@
 <div align="center">
     <h3>:zap: Stats :zap:</h3>
     <br/> 
+    [![An image of @miansaadtahir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/miansaadtahir)](https://holopin.io/@miansaadtahir)
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="Streak Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
