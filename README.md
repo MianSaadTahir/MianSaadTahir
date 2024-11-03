@@ -21,7 +21,6 @@
 </div>
 
   <img align="right" alt="Coding" height="300" width="300" src="https://octodex.github.com/images/tentocats.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anzatamveel&label=Profile%20views&color=0e75b6&style=flat" alt="anzatamveel" /> </p>
 
 <hr/>
 
