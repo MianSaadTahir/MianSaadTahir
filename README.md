@@ -12,13 +12,13 @@
 
 <div align="center">
     
-👨‍💻 I have expertise in **C++, C#, Python, HTML, CSS, JS**
+👨‍💻 **Expertise:** C++, C#, Python, HTML, CSS, JavaScript
 
-⚡ I have a strong foundation in **Object-Oriented Programming, Data Structures & Algorithms, Computer Networking**
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Computer Networking
 
-🔭 I’m currently learning **Database Systems, Computer Organization & Assembly Language, Design & Analysis of Algorithm**
+🔭 **Currently Learning:** Database Systems, Computer Organization & Assembly Language, Design & Analysis of Algorithms
 
-🌟 I am eager to explore **Artificial Intelligence, Theory of Automata, Information Security**
+🌟 **Eager to Explore:** Artificial Intelligence, Theory of Automata, Information Security
 
 </div>
 
