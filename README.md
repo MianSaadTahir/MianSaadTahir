@@ -14,9 +14,9 @@
     
 👨‍💻 I have expertise in **C++, C#, Python, HTML, CSS, JS**
 
-⚡ I have a strong foundation in **Object-Oriented Programming, Database Systems**
+⚡ I have a strong foundation in **Object-Oriented Programming, Data Structures & Algorithms, Computer Networking**
 
-🔭 I’m currently learning **Data Structures and Algorithms, Computer Networking, Software Engineering**
+🔭 I’m currently learning **Database Systems, Computer Organization & Assembly Language, Design & Analysis of Algorithm**
 
 </div>
 
