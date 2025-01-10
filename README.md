@@ -18,7 +18,7 @@
 
 🔭 I’m currently learning **Database Systems, Computer Organization & Assembly Language, Design & Analysis of Algorithm**
 
-🌟 I am eager to explore **Artificial Intelligence, Theory of Automata**
+🌟 I am eager to explore **Artificial Intelligence, Theory of Automata, Information Security**
 
 </div>
 
