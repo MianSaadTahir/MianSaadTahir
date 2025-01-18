@@ -14,11 +14,11 @@
     
 👨‍💻 **Expertise:** C++, C#, Python, HTML, CSS, JavaScript
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Computer Networking
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures, Computer Networking
 
-🔭 **Currently Learning:** Database Systems, Computer Organization & Assembly Language, Design & Analysis of Algorithms
+🔭 **Currently Learning:** Database Systems, Assembly Language, Analysis of Algorithms, Theory of Automata
 
-🌟 **Eager to Explore:** Artificial Intelligence, Theory of Automata, Information Security
+🌟 **Eager to Explore:** Artificial Intelligence, Information Security
 
 </div>
 
