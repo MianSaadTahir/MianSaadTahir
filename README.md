@@ -18,7 +18,7 @@
 
 🔭 **Currently Learning:** Database Systems, Assembly Language, Analysis of Algorithms, Theory of Automata
 
-🌟 **Eager to Explore:** Artificial Intelligence, Information Security
+🌟 **Exploring:** Artificial Intelligence, Information Security
 
 </div>
 
