@@ -51,9 +51,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/PyQt_logo.svg" alt="PyQt" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Pygame_logo.png" alt="Pygame" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Jinja_Logo_Icon.png" alt="Jinja2" width="40"/>
     <br/> 
     <h3>🗄️ Databases</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
@@ -68,16 +65,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-wireshark-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" alt="Wireshark" width="40"/>
-        <br/> 
-    <h3>🛡️ Cybersecurity Tools</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="sqlmap" width="40" height="40"/>
-</div>
-
 <hr/>
 
 <div align="center">
