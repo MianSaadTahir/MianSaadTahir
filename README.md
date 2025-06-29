@@ -21,9 +21,6 @@
 🌟 **Exploring:** Artificial Intelligence, Information Security
 
 </div>
-
-<hr/>
-
 <div align="center"> 
     <h3>:incoming_envelope: Connect with me :incoming_envelope:</h3>
     <br/>
