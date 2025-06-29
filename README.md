@@ -54,6 +54,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/PyQt_logo.svg" alt="PyQt" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Pygame_logo.png" alt="Pygame" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Jinja_Logo_Icon.png" alt="Jinja2" width="40" height="40"/>
+    <br/> 
+    <h3>🗄️ Databases</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" alt="MSSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>   
 </div>
 
 <hr/>
