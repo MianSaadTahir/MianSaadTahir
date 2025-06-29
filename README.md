@@ -10,7 +10,7 @@
 
 <br/>
 
-<div>
+<div align="center">
 
 ⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
 
@@ -20,7 +20,7 @@
 
 </div>
 <br>
-<div> 
+<div align="center"> 
     <h3>📧 Connect with me</h3>
     <br/>
     <a href="mailto:tahirsaad99@gmail.com">
