@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="justify">
+<div style="text-align: justify;">
     
 👨‍💻 **Languages:** Python, C++, C#, SQL, JavaScript, HTML, CSS
 
