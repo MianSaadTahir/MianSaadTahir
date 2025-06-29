@@ -11,14 +11,12 @@
 <br/>
 
 <div style="text-align: justify;">
-    
-👨‍💻 **Languages:** Python, C++, C#, SQL, JavaScript, HTML, CSS
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures, Computer Networking
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
 
-🔭 **Currently Learning:** Database Systems, Assembly Language, Analysis of Algorithms, Theory of Automata
+🔭 **Currently Learning:** Computer Architecture, Artificial Intelligence, Theory of Automata
 
-🌟 **Exploring:** Artificial Intelligence, Information Security
+🌟 **Exploring:** Cyber Security, Web Development
 
 </div>
 <br>
