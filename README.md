@@ -69,10 +69,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40"/>
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-wireshark-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" alt="Wireshark" width="40" height="40"/>
         <br/> 
     <h3>🛡️ Cybersecurity Tools</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-wireshark-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" alt="Wireshark" width="40" height="40"/>
+
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-terminal-coding-and-development-flat-flat-juicy-fish.png" alt="sqlmap" width="40" height="40"/>
 </div>
 
