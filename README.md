@@ -1,16 +1,16 @@
-<p align="center">
+<p>
     <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
 </p>
 
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Saad+Tahir!" />
 </h1>
 
-<h3 align="center">🎓A Junior year Computer Science student at UET Lahore</h3>
+<h3>🎓A Junior year Computer Science student at UET Lahore</h3>
 
 <br/>
 
-<div style="text-align: justify;">
+<div>
 
 ⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
 
@@ -20,8 +20,8 @@
 
 </div>
 <br>
-<div align="center"> 
-    <h3>:incoming_envelope: Connect with me :incoming_envelope:</h3>
+<div> 
+    <h3>📧 Connect with me</h3>
     <br/>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
