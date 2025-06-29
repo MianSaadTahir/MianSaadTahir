@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-    <h3>:hammer_and_wrench: 💻 Languages :hammer_and_wrench:</h3>
+    <h3>💻 Programming Languages 💻</h3>
     <br/> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
