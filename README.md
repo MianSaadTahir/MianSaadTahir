@@ -8,8 +8,6 @@
 
 <h3 align="center">🎓A Junior year Computer Science student at UET Lahore</h3>
 
-<br/>
-
 <div align="center">
 
 ⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
@@ -19,10 +17,9 @@
 🌟 **Exploring:** Cyber Security, Web Development
 
 </div>
-<br>
+
 <div align="center"> 
     <h3>📧 Connect with me</h3>
-    <br/>
     <a href="mailto:tahirsaad99@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
