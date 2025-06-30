@@ -69,7 +69,7 @@
 <hr/>
 
 <div align="center">
-    <h3>:zap: Stats :zap:</h3>
+    <h3>:zap: Stats</h3>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
