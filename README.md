@@ -81,7 +81,7 @@
 <hr/>
 
 <div align="center">
-    <h3>:zap: Stats</h3>
+    <h3>📊 Stats</h3>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=onedark" alt="miansaadtahir" /></a> </p>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
