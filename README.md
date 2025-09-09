@@ -84,5 +84,5 @@
     <h3>:zap: Stats</h3>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&" alt="miansaadtahir" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="scorestreak" /></p>
 </div>
