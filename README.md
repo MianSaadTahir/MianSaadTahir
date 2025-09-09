@@ -12,9 +12,9 @@
 
 ⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
 
-🔭 **Currently Learning:** Computer Architecture, Operating System
+🌟 **Currently Learning:** Computer Architecture, Operating System
 
-🌟 **Exploring:** Web Development, Cyber Security, Artificial Intelligence
+🔭 **Exploring:** Web Development, Cyber Security, Artificial Intelligence
 
 </div>
 
