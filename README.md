@@ -10,11 +10,11 @@
 
 <div align="center">
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures and Algorithms, Database Systems
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Computer Architecture, Operating System
 
-🌟 **Currently Learning:** Computer Architecture, Operating System
+🌟 **Currently Learning:** Compiler Construction, Computer Vision
 
-🔭 **Exploring:** Web Development, Cyber Security, Artificial Intelligence
+🔭 **Exploring:** Mobile App Development, Parallel & Distributed Computing
 
 </div>
 
