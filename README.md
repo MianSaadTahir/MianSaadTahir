@@ -12,9 +12,9 @@
 
 ⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Computer Architecture, Operating System
 
-🌟 **Currently Learning:** Compiler Construction, Computer Vision
+🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
 
-🔭 **Exploring:** Mobile App Development, Parallel & Distributed Computing
+🔭 **Exploring:** Mobile App Development, Computer Vision
 
 </div>
 
