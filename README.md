@@ -10,7 +10,7 @@
 
 <div align="center">
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Computer Architecture, Operating System
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
 
 🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
 
@@ -63,10 +63,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />
     <br/> 
 <h3>📱 Mobile</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>    
     <br/> 
-    <h3>🧠 AI / ML</h3>
+    <h3>🧠 Machine Learning & AI</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>                  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="learn" width="40" height="40"/>
