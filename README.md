@@ -20,7 +20,7 @@
 
 <div align="center"> 
     <h3>📧 Connect with me</h3>
-    <a href="mailto:tahirsaad99@gmail.com">
+    <a href="mailto:miansaadtahir@protonmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://linkedin.com/in/miansaadtahir" target="_blank">
