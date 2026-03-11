@@ -29,6 +29,9 @@
     <a href="https://miansaadtahir.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
+      <a href="https://www.fiverr.com/s/NNj9ZPp" target="_blank"><img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white"/>
+      </a>
+    
 <!--     <a href="https://www.hackerrank.com/tahirsaad99" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a> -->
