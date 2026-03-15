@@ -10,7 +10,7 @@
 
 <div align="center">
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture, Artificial Intelligence
 
 🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
 
