@@ -6,11 +6,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Saad+Tahir!" />
 </h1>
 
-<h3 align="center">🎓 Junior CS Student at UET Lahore | 2+ Years Building Scalable Web & AI-Powered Applications</h3>
+<h3 align="center">🎓 Junior CS Student at UET Lahore | 2+ Years Building Scalable Full-Stack Web Applications</h3>
 
 <div align="center">
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture, Artificial Intelligence
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
 
 🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
 
@@ -64,7 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>   
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" /> -->
     <br/> 
 <!-- <h3>📱 Mobile</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
