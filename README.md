@@ -17,6 +17,15 @@
 🌱 **Open to:** Full-time roles, internships, and freelance projects
 
 </div>
+<div align="center">
+
+⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
+
+🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
+
+🔭 **Exploring:** Mobile App Development, Computer Vision
+
+</div>
 
 <div align="center"> 
     <h3>📧 Connect with me</h3>
@@ -62,6 +71,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ex" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>   
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+    
    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" /> -->
@@ -77,10 +88,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="nmpy" width="40" height="40"/>
     <br/>  -->
-    <h3>🤖 AI & Automation</h3>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini AI-4285F4?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white" />
     <h3>🗄️ Databases</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
