@@ -17,16 +17,6 @@
 🌱 **Open to:** Full-time roles, internships, and freelance projects
 
 </div>
-<div align="center">
-
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
-
-🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
-
-🔭 **Exploring:** Mobile App Development, Computer Vision
-
-</div>
-
 <div align="center"> 
     <h3>📧 Connect with me</h3>
     <a href="mailto:miansaadtahir@protonmail.com">
