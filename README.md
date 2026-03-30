@@ -72,17 +72,6 @@
 
 <div align="center">
   <h3>📊 Stats</h3>
-
-  <a href="https://github.com/miansaadtahir">
-    <img src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="400" />
-  </a>
-
-  <a href="https://github.com/miansaadtahir">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="350" />
-  </a>
-
-  <br/><br/>
-
   <a href="https://github.com/miansaadtahir">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="GitHub Streak" />
   </a>
