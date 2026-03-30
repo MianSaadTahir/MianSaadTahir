@@ -10,11 +10,11 @@
 
 <div align="center">
 
-⚡ **Strong Foundations:** Object-Oriented Programming, Data Structures & Algorithms, Database Systems, Operating Systems, Computer Architecture
+🔭 **Currently building:** Full stack web apps with AI & automation integrations
 
-🌟 **Currently Learning:** Compiler Construction, Parallel & Distributed Computing
+⚡ **Stack:** Next.js · React · Node.js · MongoDB · n8n · MCP
 
-🔭 **Exploring:** Mobile App Development, Computer Vision
+🌱 **Open to:** Full-time roles, internships, and freelance projects
 
 </div>
 
@@ -62,8 +62,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="ex" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>   
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" /> -->
     <br/> 
 <!-- <h3>📱 Mobile</h3>
@@ -77,6 +77,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="nmpy" width="40" height="40"/>
     <br/>  -->
+    <h3>🤖 AI & Automation</h3>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini AI-4285F4?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white" />
     <h3>🗄️ Databases</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
@@ -97,10 +101,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
 <hr/>
 
-<!-- <div align="center">
+ <div align="center">
     <h3>📊 Stats</h3>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miansaadtahir&theme=onedark" alt="miansaadtahir" /></a> </p>
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=miansaadtahir&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=miansaadtahir&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="scorestreak" /></p>
-</div> -->
+</div> 
