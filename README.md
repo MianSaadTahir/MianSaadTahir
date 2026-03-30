@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+Hola+👋!;Bonjour+👋!" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
 </h1>
 
 <h3 align="center">I'm Saad Tahir | A Full Stack AI Developer</h3>
