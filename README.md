@@ -10,9 +10,9 @@
 
 <div align="center">
 
-🔭 Currently building: Full stack web apps with agentic AI & automation integrations  
+🔭 Building: Full stack web apps with agentic AI & automation integrations  
 ⚡ Stack: Next.js · React · Node.js · MongoDB · n8n · MCP  
-📱 Also builds: Android apps with Kotlin · ML models with TensorFlow & Scikit-Learn  
+📱 Also: Android apps with Kotlin · ML models with TensorFlow & Scikit-Learn  
 🌱 Open to: Full-time roles, internships, and freelance projects  
 
 </div>
