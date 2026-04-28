@@ -31,6 +31,9 @@
     <a href="https://miansaadtahir.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
+        <a href="https://linktr.ee/miansaadtahir" target="_blank">
+        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+    </a>
 </div>
 
 <hr/>
