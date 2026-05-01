@@ -11,9 +11,8 @@
 <div align="center">
 
 🔭 Building: Full stack web apps with agentic AI & automation integrations  
-⚡ Stack: Next.js · React · Node.js · MongoDB · n8n · MCP  
-📱 Also: Android apps with Kotlin · AI/ML models with TensorFlow & Scikit-Learn  
-🌱 Open to: Full-time roles, internships, and freelance projects  
+📱 Exploring: Android apps with Kotlin · AI/ML models with TensorFlow & Scikit-Learn  
+<!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
 
 </div>
 
