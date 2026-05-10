@@ -9,11 +9,8 @@
 <h3 align="center">I'm Saad Tahir | A Full Stack Software Developer</h3>
 
 <div align="center">
-
-🔭 I build full-stack systems, AI automation pipelines, and backend architectures that turn real-world user stories into scalable solutions.
-📱 Exploring: Android apps with Kotlin · AI/ML models with TensorFlow & Scikit-Learn  
+I build full-stack systems, AI automation pipelines, and backend architectures that turn real-world user stories into scalable solutions.
 <!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
-
 </div>
 
 <div align="center">
