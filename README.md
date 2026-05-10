@@ -1,11 +1,11 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
 </h1> 
 
 <h3 align="center">I'm Saad Tahir | A Full Stack Software Developer</h3>
 
 <div align="center">
-I build full-stack systems, AI automation pipelines, and backend architectures that turn real-world user stories into scalable solutions.
+I build web & mobile systems, AI automations, and backend architectures that turn real-world user stories into scalable solutions.
 <!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
 </div>
 
