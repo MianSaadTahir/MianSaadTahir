@@ -5,8 +5,8 @@
 <h3 align="center">I'm Saad Tahir | A Full Stack Software Developer</h3>
 
 <div align="center">
-I build web & mobile systems, AI automations, and backend architectures that turn real-world user stories into scalable solutions.
-<!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
+I build scalable web applications, backend systems, and AI-powered automations that solve real-world problems.
+    <!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
 </div>
 
 <div align="center">
