@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="25%"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/290078797-bea7769e-cd87-495f-ad0e-04ddfbb73091.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Nzg0MDU4MTYsIm5iZiI6MTc3ODQwNTUxNiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzg3OTctYmVhNzc2OWUtY2Q4Ny00OTVmLWFkMGUtMDRkZGZiYjczMDkxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTEwVDA5MzE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFmMjk1NDkzMjkwMTZmNjg0YTMwNGIyMjM2YzQyMGM3MGViZGY4MzMyZjdjNTY5MmQ2MDYxMjcyZjdhZGFjNDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.HLgcrM6DmNZvHOd0fly34qkqwv4IocpwK3qUgl0zLQI" width="25%"/>
 </p>
 
-<!-- <h1 align="center">
+<h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
-</h1> -->
+</h1> 
 
 <h3 align="center">I'm Saad Tahir | A Full Stack Software Developer</h3>
 
