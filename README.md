@@ -12,7 +12,7 @@ I build scalable web applications, backend systems, and AI-powered automations t
 <div align="center">
     <h3>📧 Connect with me</h3>
     <a href="mailto:miansaadtahir@icloud.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+        <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
     <a href="https://linkedin.com/in/miansaadtahir" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
