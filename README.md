@@ -5,7 +5,7 @@
 <h3 align="center">I'm Saad Tahir | Backend Engineer</h3>
 
 <div align="center">
-I build scalable web applications, backend systems, and AI-powered automations that solve real-world problems.
+I build scalable web applications, backend systems, and agentic AI workflows that solve real-world problems.
     <!-- 🌱 Open to: Full-time roles, internships, and freelance projects -->  
 </div>
 
