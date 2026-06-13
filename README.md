@@ -3,9 +3,7 @@
 </h1> 
 
 <div align="center">
-  <h2>I'm Saad Tahir</h2>
-I build scalable web applications, backend systems, and agentic AI workflows that solve real-world problems.
-  
+  <h2>I'm Saad Tahir</h2>  
 </div>
 
 <div align="center">
