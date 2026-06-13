@@ -3,7 +3,7 @@
 </h1> 
 
 <div align="center">
-  <h1>I'm Saad Tahir</h1>
+  <h2>I'm Saad Tahir</h2>
 </div>
 
 <div align="center">
