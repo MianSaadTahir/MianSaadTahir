@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
 </h1> 
 
-<h2 align="center">I'm Saad Tahir</h2>
+<h1 align="center">I'm Saad Tahir</h1>
 
 <div align="center">
 I build scalable web applications, backend systems, and agentic AI workflows that solve real-world problems.
