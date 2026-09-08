@@ -1,63 +1,60 @@
-<div align="center">
-  <h1>Saad Tahir</h1>
-  <p><strong>Backend Engineer @ Codev Digital | Distributed Workflows & Agentic Systems</strong></p>
-  <p>Engineering production monetization engines, inventory state machines, and event-driven architectures.</p>
+<h1 align="center">Saad Tahir</h1>
 
-  <p>
-    <a href="mailto:miansaadtahir@icloud.com"><img src="https://img.shields.io/badge/Email-miansaadtahir%40icloud.com-007ACC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/miansaadtahir"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Tahir-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://miansaadtahir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-miansaadtahir.vercel.app-FF5722?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://linktr.ee/miansaadtahir"><img src="https://img.shields.io/badge/Links-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
-  </p>
-</div>
+<h2 align="center">Backend Engineer</h2>
+
+<p align="center">
+  System Architecture · REST APIs · High-Throughput Pipelines · Agentic AI
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-I am a Backend Engineer with over 1.5 years of experience architecting systems that run in production. My day-to-day work centers around writing mission-critical business logic, designing transactional workflows, and building backend services that scale without falling apart under real-world traffic.
+I am a Backend Engineer with 1.5+ years of experience engineering production software, transactional systems, and modular backend architectures. My focus centers on designing resilient server-side business logic, robust database schemas, and event-driven services built to handle real scale.
 
-Currently, at **Codev Digital**, I build production-grade platforms across the **Node.js, TypeScript, Express, and MongoDB** stack. My recent work includes architecting a complete 4-tier ad-bidding engine with custom lifecycle mechanics, recurring Stripe settlement crons, and end-to-end B2B/B2C fulfillment state machines that decouple ordering from physical logistics.
-
-Beyond monolithic services, I actively engineer **Agentic AI workflows** using the Model Context Protocol (MCP) and multi-agent coordination—turning unstructured communications into structured, executable project pipelines in real time.
+Across production environments, I architect end-to-end monetization engines, complex state machines, and asynchronous background pipelines. Alongside core backend infrastructure, I actively build agentic workflows using the Model Context Protocol (MCP) to bridge unstructured data into deterministic systems, while maintaining full-stack versatility across modern frontend frameworks, data utilities, and native mobile platforms.
 
 ---
 
-### ⚙️ What I Work With Daily
+## Tech Stack
 
-- **Backend & Core:** Node.js, TypeScript, Express.js, RESTful APIs, Clean Architecture, Design Patterns
-- **Databases & Caching:** PostgreSQL, MongoDB (Aggregations, TTLs, Schema Migrations), Supabase
-- **Real-Time & Events:** Socket.io, Webhooks, Event-Driven Architectures, Cron Pipelines
-- **Agentic AI & Tooling:** Model Context Protocol (MCP), Multi-Agent Systems, n8n, Python
-- **DevOps & Environments:** Docker, Git/GitHub, Linux Environments, Postman
-- **T-Shaped Versatility:** Next.js, React, Tailwind CSS, Native Android (Kotlin)
-
----
-
-### 🏗️ Production Systems & Engineering Highlights
-
-#### 📦 Supply Chain & Logistics Engine (Codev Digital)
-Architected an end-to-end B2B/B2C fulfillment backend decoupling requested order items from physical warehouse allocations. Implemented atomic stock deduction routines using package multipliers, real-time vehicle load capacity guards, and zero-defect doorstep reverse-logistics reconciliation for partial customer refusals.
-
-#### 💰 Monetization & Ad-Bidding Infrastructure (Codev Digital)
-Built a priority sponsorship engine with a multi-tier multiplier system ($1\times$ to $5\times$). Handled complete state machine lifecycles (claim, contest, displacement, pause, resume), supported by hybrid Stripe billing pipelines (instant charge authorizations combined with daily cron balance settlements) and last-touch attribution tracking.
-
-#### 🤖 Agentic Telegram Orchestration (LabSync 360)
-Engineered an MCP-backed multi-agent system that converts informal client messages into formal project plans and dynamic budgets. Implemented an asynchronous webhook pipeline feeding specialized parsing agents, synchronized directly to live frontend dashboards via Socket.io.
-
-#### ⚡ Systems & Concurrency Research
-Implemented and benchmarked sequence alignment algorithms across distributed and shared memory architectures using **Pthreads, OpenMP, and MPI**, achieving up to a 2.13× speedup across 8 parallel processes.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
-### 📊 GitHub Activity
+<p align="center">
+  <a href="mailto:miansaadtahir@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/miansaadtahir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://miansaadtahir.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Open to conversations around backend architecture, high-throughput systems, and agentic workflows.</sub>
-</div>
+<p align="center">
+  <a href="https://github.com/miansaadtahir">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
