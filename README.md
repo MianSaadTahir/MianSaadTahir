@@ -1,90 +1,63 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hello!+👋;+Hola!+👋;Bonjour!+👋;Ciao!+👋" />
-</h1> 
-
 <div align="center">
-  <h2>I'm Saad Tahir</h2>  
+  <h1>Saad Tahir</h1>
+  <p><strong>Backend Engineer @ Codev Digital | Distributed Workflows & Agentic Systems</strong></p>
+  <p>Engineering production monetization engines, inventory state machines, and event-driven architectures.</p>
+
+  <p>
+    <a href="mailto:miansaadtahir@icloud.com"><img src="https://img.shields.io/badge/Email-miansaadtahir%40icloud.com-007ACC?style=flat-square&logo=mail.ru&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/miansaadtahir"><img src="https://img.shields.io/badge/LinkedIn-Saad%20Tahir-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://miansaadtahir.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-miansaadtahir.vercel.app-FF5722?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linktr.ee/miansaadtahir"><img src="https://img.shields.io/badge/Links-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" alt="Linktree" /></a>
+  </p>
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+I am a Backend Engineer with over 1.5 years of experience architecting systems that run in production. My day-to-day work centers around writing mission-critical business logic, designing transactional workflows, and building backend services that scale without falling apart under real-world traffic.
+
+Currently, at **Codev Digital**, I build production-grade platforms across the **Node.js, TypeScript, Express, and MongoDB** stack. My recent work includes architecting a complete 4-tier ad-bidding engine with custom lifecycle mechanics, recurring Stripe settlement crons, and end-to-end B2B/B2C fulfillment state machines that decouple ordering from physical logistics.
+
+Beyond monolithic services, I actively engineer **Agentic AI workflows** using the Model Context Protocol (MCP) and multi-agent coordination—turning unstructured communications into structured, executable project pipelines in real time.
+
+---
+
+### ⚙️ What I Work With Daily
+
+- **Backend & Core:** Node.js, TypeScript, Express.js, RESTful APIs, Clean Architecture, Design Patterns
+- **Databases & Caching:** PostgreSQL, MongoDB (Aggregations, TTLs, Schema Migrations), Supabase
+- **Real-Time & Events:** Socket.io, Webhooks, Event-Driven Architectures, Cron Pipelines
+- **Agentic AI & Tooling:** Model Context Protocol (MCP), Multi-Agent Systems, n8n, Python
+- **DevOps & Environments:** Docker, Git/GitHub, Linux Environments, Postman
+- **T-Shaped Versatility:** Next.js, React, Tailwind CSS, Native Android (Kotlin)
+
+---
+
+### 🏗️ Production Systems & Engineering Highlights
+
+#### 📦 Supply Chain & Logistics Engine (Codev Digital)
+Architected an end-to-end B2B/B2C fulfillment backend decoupling requested order items from physical warehouse allocations. Implemented atomic stock deduction routines using package multipliers, real-time vehicle load capacity guards, and zero-defect doorstep reverse-logistics reconciliation for partial customer refusals.
+
+#### 💰 Monetization & Ad-Bidding Infrastructure (Codev Digital)
+Built a priority sponsorship engine with a multi-tier multiplier system ($1\times$ to $5\times$). Handled complete state machine lifecycles (claim, contest, displacement, pause, resume), supported by hybrid Stripe billing pipelines (instant charge authorizations combined with daily cron balance settlements) and last-touch attribution tracking.
+
+#### 🤖 Agentic Telegram Orchestration (LabSync 360)
+Engineered an MCP-backed multi-agent system that converts informal client messages into formal project plans and dynamic budgets. Implemented an asynchronous webhook pipeline feeding specialized parsing agents, synchronized directly to live frontend dashboards via Socket.io.
+
+#### ⚡ Systems & Concurrency Research
+Implemented and benchmarked sequence alignment algorithms across distributed and shared memory architectures using **Pthreads, OpenMP, and MPI**, achieving up to a 2.13× speedup across 8 parallel processes.
+
+---
+
+### 📊 GitHub Activity
+
 <div align="center">
-I build scalable web applications, backend systems, and agentic AI workflows that solve real-world problems.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-    <h3>📧 Connect with me</h3>
-    <a href="mailto:miansaadtahir@icloud.com">
-        <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://linkedin.com/in/miansaadtahir" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <!-- <a href="http://www.fiverr.com/s/6YxX1xw" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-darkgreen?style=for-the-badge&logo=fiverr&logoColor=white"/>
-    </a> -->
-    <a href="https://miansaadtahir.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-    </a>
-        <a href="https://linktr.ee/miansaadtahir" target="_blank">
-        <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-    </a>
-</div>
-
-<hr/>
+---
 
 <div align="center">
-    <h3>⚙️ Backend</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-        <br/>
-    <h3>💻 Frontend</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
-    <br/>
-        <h3>🗄️ Databases</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-    <br/>
-    <h3>📱 Mobile</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
-    <br/>
-    <h3>🧠 AI / ML</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-    <br/>
-    <h3>🧰 Tools</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" alt="jet" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-    <br/>
-    <h3>👥 Collaboration</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="Slack" width="40" height="40"/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h3>📊 Stats</h3>
-  <a href="https://github.com/miansaadtahir">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miansaadtahir&theme=dark" alt="GitHub Streak" />
-  </a>
+  <sub>Open to conversations around backend architecture, high-throughput systems, and agentic workflows.</sub>
 </div>
