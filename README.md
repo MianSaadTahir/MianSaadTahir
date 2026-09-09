@@ -3,7 +3,7 @@
 <h2 align="center">Backend Engineer</h2>
 
 <p align="center">
-  Backend Systems · APIs · Data Infrastructure · AI Automation
+Distributed Systems · Transactional Engines · Agentic AI
 </p>
 
 ## About Me
