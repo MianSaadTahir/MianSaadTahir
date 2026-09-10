@@ -1,14 +1,14 @@
 <h1 align="center">Saad Tahir</h1>
 
-<h2 align="center">Backend Engineer</h2>
+<h2 align="center">Software Engineer</h2>
 
 <p align="center">
-Distributed Architecture · Transactional Engines · Agentic AI
+Backend Systems · Transactional Engines · Agentic AI
 </p>
 
 ## About Me
 
-I am a Backend Engineer with 1.5+ years of experience building production software, transactional systems, and modular server-side architectures. I focus on reliable business logic, scalable data systems, and event-driven services.
+I am a Software Engineer with 1.5+ years of experience building production software, transactional systems, and modular server-side architectures. I focus on reliable business logic, scalable data systems, and event-driven services.
 
 My production work includes monetization engines, complex state machines, billing systems, supply-chain workflows, and asynchronous data pipelines. I also build agentic AI workflows using the Model Context Protocol (MCP), connecting unstructured inputs with structured backend systems.
 
