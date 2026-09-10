@@ -3,7 +3,7 @@
 <h2 align="center">Software Engineer</h2>
 
 <p align="center">
-Backend Systems · Transactional Engines · Agentic AI
+Backend Systems · Scalable Architecture · Agentic AI
 </p>
 
 ## About Me
