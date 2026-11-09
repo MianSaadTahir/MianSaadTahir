@@ -8,11 +8,15 @@ Backend Systems · Scalable Architecture · Agentic AI
 
 ## About Me
 
-I am a Software Engineer with 1.5+ years of experience building production software, transactional systems, and modular server-side architectures. I focus on reliable business logic, scalable data systems, and event-driven services.
+I'm a Full Stack Engineer with 1.5+ years of experience building production applications, scalable backend systems, and end-to-end software solutions.
 
-My production work includes monetization engines, complex state machines, billing systems, supply-chain workflows, and asynchronous data pipelines. I also build agentic AI workflows using the Model Context Protocol (MCP), connecting unstructured inputs with structured backend systems.
+My core stack includes Node.js, TypeScript, Express, Next.js, and React, with MongoDB and PostgreSQL for data management. I've worked on supply-chain platforms, multi-vendor marketplaces, transactional systems, billing engines, and operations management applications.
 
-While backend engineering is my primary focus, I work across the stack with React and Next.js, Python, and Kotlin to build complete solutions when needed.
+I specialize in backend architecture, API design, complex business logic, and database modeling, while also developing responsive frontend applications and interactive dashboards. I build AI-driven automation workflows using n8n and MCP, integrating intelligent processes with structured backend systems.
+
+Beyond web development, I have experience with Python, Flask, and Kotlin for backend services and native Android applications.
+
+My focus is on clean architecture, maintainable code, and reliable software that solves real-world problems.
 
 ## Tech Stack
 
